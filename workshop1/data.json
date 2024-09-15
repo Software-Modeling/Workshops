@@ -1,0 +1,12 @@
+{
+    "machines": [
+        {"material": "wood", "price": 500},
+        {"material": "aluminum", "price": 600},
+        {"material": "carbon fiber", "price": 700}
+    ],
+    "games": [
+        {"code": "G001", "name": "Pac-Man", "genre": "Arcade", "price": 50},
+        {"code": "G002", "name": "Space Invaders", "genre": "Shooter", "price": 60},
+        {"code": "G003", "name": "Donkey Kong", "genre": "Platform", "price": 70}
+    ]
+}
